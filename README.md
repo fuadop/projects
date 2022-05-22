@@ -32,4 +32,4 @@ Each project follows a chapter in the Learning TypeScript book and aligns to one
 
 - 🥗 Appetizers: bite-sized directed warmups: set of independent mini-projects
 - 🍲 Entrees: larger, more hands-off challenge: a single self-contained project
-- 🍰 Desserts: the same structure as entrees, with a fun thematic twist
+- 🍰 Desserts: the same structure as entrees, with a fun thematic twis
