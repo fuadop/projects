@@ -3,7 +3,7 @@
 > A [Learning TypeScript > The Type System](https://learning-typescript.com/the-type-system) 🥗 appetizer project.
 > You'll practice adding in TypeScript type annotations to JavaScript code to find bugs.
 
-Those pesky Java programmers are at it again!
+🎈 Help me, please!
 
 I planned an elaborate clown-themed surprise party for my best friend.
 The whole event was planned using a few files of TypeScript code I'd written.
@@ -24,7 +24,7 @@ tsc --watch
 
 ## Steps
 
-- [1. Fun Activities](./01-fun-activities)
+- [1. Clowning Around](./01-clowning-around)
 - [2. Clown Availability](./02-clown-availability)
 
 ## Notes
